@@ -6,6 +6,8 @@ Bit is an extensible, **open-source** toolchain for building independent compone
 
 It makes it easy to develop modular software projects from independently versioned components, connected through a dependency graph and which can be owned by numerous autonomous teams, collaborating together to deliver modern apps at speed, consistency and scale. It is a simple, modular and efficient way to build a single web application, while allowing to scale to any amount of teams collaborating together.
 
+In the demos you will notice we have separate repos yet the stores are using the components from the base-ui and ecommerce repo. Bit allows us to easily share compoents across different repos and teams.
+
 - [Docs](https://harmony-docs.bit.dev/)
 - [React Demos hosted on Bit.dev](https://bit.dev/learn-bit-react/~scopes)
 - [Podcasts](https://harmony-docs.bit.dev/resources/podcasts)
