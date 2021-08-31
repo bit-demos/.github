@@ -8,6 +8,10 @@ It makes it easy to develop modular software projects from independently version
 
 In the demos you will notice we have separate repos yet the stores are using the components from the base-ui and ecommerce repo. Bit allows us to easily share compoents across different repos and teams.
 
+<img width="1124" alt="128937364-5c814d60-7538-4e00-8571-31ad3020bae6" src="https://user-images.githubusercontent.com/13063165/131495038-919b2996-3361-4b78-af4b-6bca5ab7c9e2.png">
+
+## Useful Links
+
 - [Docs](https://harmony-docs.bit.dev/)
 - [React Demos hosted on Bit.dev](https://bit.dev/learn-bit-react/~scopes)
 - [Podcasts](https://harmony-docs.bit.dev/resources/podcasts)
