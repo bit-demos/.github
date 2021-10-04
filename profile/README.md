@@ -14,5 +14,6 @@ In the demos you will notice we have separate repos yet the stores are using the
 
 - [Docs](https://harmony-docs.bit.dev/)
 - [React Demos hosted on Bit.dev](https://bit.dev/learn-bit-react/~scopes)
+- [Angular Demos hosted on Bit.dev](https://bit.dev/learn-bit-angular/~scopes)
 - [Podcasts](https://harmony-docs.bit.dev/resources/podcasts)
 - [YouTube Channel](https://www.youtube.com/channel/UCuNkM3qIO79Q3-VrkcDiXfw)
